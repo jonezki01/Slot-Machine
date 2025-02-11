@@ -17,7 +17,7 @@ Tämä skripti ei vaadi ulkoisia kirjastoja, vaan toimii suoraan Pythonilla. Var
 ### Suorita skripti:
 
 ```sh
-python slot_machine.py
+python main.py
 ```
 
 ## Pelin kulku
