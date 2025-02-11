@@ -35,7 +35,7 @@ Pelin symbolit ovat:
 
 | Symboli | Voitto per panostettu euro |      |
 | ------- | -------------------------- | ---- |
-|         | **A**                      | 40 € |
+| **A**   | 40 €                       |      |
 | **B**   | 20 €                       |      |
 | **C**   | 10 €                       |      |
 | **D**   | 5 €                        |      |
