@@ -33,11 +33,11 @@ python slot_machine.py
 
 Pelin symbolit ovat:
 
-| Symboli | Voitto per panostettu euro |      |
-| ------- | -------------------------- | ---- |
-| **A**   | 40 €                       |      |
-| **B**   | 20 €                       |      |
-| **C**   | 10 €                       |      |
-| **D**   | 5 €                        |      |
+| Symboli | Voitto per panostettu euro |
+| ------- | -------------------------- |
+| **A**   | 40 €                       |
+| **B**   | 20 €                       |
+| **C**   | 10 €                       |
+| **D**   | 5 €                        |
 
 Voitto tulee, jos kaikki rivin kolme symbolia ovat samoja.
