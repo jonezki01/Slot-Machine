@@ -41,3 +41,6 @@ Pelin symbolit ovat:
 | **D**   | 5 €                        |
 
 Voitto tulee, jos kaikki rivin kolme symbolia ovat samoja.
+
+![image](https://github.com/user-attachments/assets/d2aa7746-1b97-406e-b8fb-eabbc8dbb16d)
+
